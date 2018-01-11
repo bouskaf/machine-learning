@@ -5,3 +5,5 @@ Repository with various examples of machine learning tasks.
 ## Tweets Sentiment Analysis
 
 ## Movie Recommendation
+
+## Stock Prices Prediction
